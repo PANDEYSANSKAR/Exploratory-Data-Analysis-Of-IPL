@@ -8,5 +8,5 @@ contributing win or loss of a team.
 ● Suggested teams or players a company should endorse for its products.
 
 
-Presented a Power Bi report (deskstop version)
-check out the video where I presented my findings- https://www.linkedin.com/posts/sanskar-pandey-a88964157_powerbidesktop-tsf-grip-activity-6818833443846262784-XpUH?utm_source=linkedin_share&utm_medium=member_desktop_web
+Presented a Power Bi report (deskstop version). 
+Check out the video where I presented my findings- https://www.linkedin.com/posts/sanskar-pandey-a88964157_powerbidesktop-tsf-grip-activity-6818833443846262784-XpUH?utm_source=linkedin_share&utm_medium=member_desktop_web
